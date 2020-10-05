@@ -1,5 +1,8 @@
 ## 👋  Hi there, I'm FreeKnight. 
 
+<h2>🏆 Github Profile Trophy</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=duzhi5368&column=6"/>
+
 <!--BGN_SECTION:github-readme-stats-->
 <a href="https://duzhi5368.github.io/OLDPAGE/" target="_blank">
   <img height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duzhi5368&hide=HTML,CSS,TSQL&theme=great-gatsby" alt="EXP's Top Langs" />
