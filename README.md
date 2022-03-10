@@ -2,11 +2,11 @@
 
 <!--BGN_SECTION:github-readme-stats-->
 <a href="https://duzhi5368.github.io/OLDPAGE/" target="_blank">
-  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duzhi5368&bg_color=30,3f5efb,fc466b&title_color=fff&text_color=fff&langs_count=15&hide_border=true&layout=compact&card_width=400&theme=great-gatsby" alt="EXP's Top Langs" />
+  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duzhi5368&angs_count=15&hide_border=true&layout=compact&card_width=400&theme=gruvbox" alt="EXP's Top Langs" />
 </a>
 
 <a href="https://duzhi5368.github.io/OLDPAGE/" target="_blank">
-  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api?username=duzhi5368&count_private=true&card_width=400&show_icons=true&theme=nightowl" alt="EXP's github stats" />
+  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api?username=duzhi5368&count_private=true&hide=stars,commits&show_icons=true&theme=gruvbox" alt="EXP's github stats" />
 </a>
 <!--END_SECTION:github-readme-stats-->
 
