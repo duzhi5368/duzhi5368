@@ -6,7 +6,7 @@
 </a>
 
 <a href="https://duzhi5368.github.io/OLDPAGE/" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=duzhi5368&count_private=true&include_all_commits=true&hide=prs,issues,contribs&card_width=400&show_icons=true&theme=gruvbox" alt="EXP's github stats" />
+  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api?username=duzhi5368&count_private=true&include_all_commits=true&hide=prs,issues,contribs&card_width=400&show_icons=true&theme=gruvbox" alt="EXP's github stats" />
 </a>
 <!--END_SECTION:github-readme-stats-->
 
@@ -20,3 +20,5 @@
 
 ![](https://komarev.com/ghpvc/?username=duzhi5368&color=fc466b&style=plastic&label=Profile+Views)
 ![](https://hit.yhype.me/github/profile?user_id=duzhi5368)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=duzhi5368&repo=github-readme-stats)](https://github.com/duzhi5368/FKEngine)
