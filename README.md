@@ -2,7 +2,7 @@
 
 <!--BGN_SECTION:github-readme-stats-->
 <a href="https://duzhi5368.github.io/OLDPAGE/" target="_blank">
-  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs40username=duzhi5368&bg_color=30,3f5efb,fc466b&title_color=fff&text_color=fff&langs_count=15&hide_border=true&layout=compact&card_width=500&theme=great-gatsby" alt="EXP's Top Langs" />
+  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duzhi5368&bg_color=30,3f5efb,fc466b&title_color=fff&text_color=fff&langs_count=15&hide_border=true&layout=compact&card_width=400&theme=great-gatsby" alt="EXP's Top Langs" />
 </a>
 
 <a href="https://duzhi5368.github.io/OLDPAGE/" target="_blank">
