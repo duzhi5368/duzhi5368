@@ -13,7 +13,7 @@
 
 <!-- github prifile -->
 <h2>🏆 Github Profile Trophy</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=duzhi5368&column=7&theme=dark_lover&&no-frame=true&title=MultiLanguage,Stars,Repositories,Followers,Commits"/>
+<img src="https://github-profile-trophy.vercel.app/?username=duzhi5368&column=7&theme=dark_lover&&no-frame=true&title=MultiLanguage,Stars,Organizations,Repositories,Followers,Commits"/>
 
 <!--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-->
 
