@@ -16,3 +16,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=duzhi5368&column=7"/>
 
 <!--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-->
+
+
+![](https://komarev.com/ghpvc/?username=duzhi5368&color=fc466b&style=plastic&label=Profile+Views)
+![](https://hit.yhype.me/github/profile?user_id=duzhi5368)
