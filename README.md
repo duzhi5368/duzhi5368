@@ -1,10 +1,6 @@
 ## 👋  Hi there, I'm FreeKnight. 
 
 <!--BGN_SECTION:github-readme-stats-->
-<a href="https://duzhi5368.github.io/OLDPAGE/" target="_blank">
-  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duzhi5368&layout=compact&hide=HTML,Classic ASP,Assembly,CSS,TSQL,Shell" alt="EXP's Top Langs" />
-</a>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duzhi5368&layout=compact&hide=HTML,Classic ASP,Assembly,CSS,TSQL,Shell)](https://duzhi5368.github.io/OLDPAGE/)
 
 <a href="https://duzhi5368.github.io/OLDPAGE/" target="_blank">
