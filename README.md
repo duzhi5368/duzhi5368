@@ -1,8 +1,8 @@
 ## 👋  Hi there, I'm FreeKnight. 
 
-<!--
-<!--BGN_SECTION:github-readme-stats-->
 
+<!--BGN_SECTION:github-readme-stats-->
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duzhi5368&layout=compact&hide=HTML)](https://github.com/duzhi5368)
 
 <a href="https://duzhi5368.github.io/OLDPAGE/" target="_blank">
