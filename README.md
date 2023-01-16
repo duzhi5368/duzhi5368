@@ -15,7 +15,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=duzhi5368&column=7&theme=dark_lover&&no-frame=true&title=MultiLanguage,Stars,Repositories,Followers,Commits"/>
 <!--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-->
 
-
+<!--
 ![](https://komarev.com/ghpvc/?username=duzhi5368&color=fc466b&style=plastic&label=Profile+Views)
 ![](https://hit.yhype.me/github/profile?user_id=duzhi5368)
 
@@ -29,3 +29,4 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=duzhi5368&repo=FK2DGame)](https://github.com/duzhi5368/FK2DGame)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=duzhi5368&repo=FKGoBigdataAPIFramework)](https://github.com/duzhi5368/FKGoBigdataAPIFramework)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=duzhi5368&repo=FKTheLostLand)](https://github.com/duzhi5368/FKTheLostLand)
+-->
