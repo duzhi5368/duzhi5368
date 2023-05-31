@@ -2,15 +2,21 @@
 
 
 <!--BGN_SECTION:github-readme-stats-->
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duzhi5368&layout=compact&hide=HTML)](https://github.com/duzhi5368)
 
+
+<!--
 <a href="https://duzhi5368.github.io/OLDPAGE/" target="_blank">
   <img height="190" align="center" src="https://github-readme-stats.vercel.app/api?username=duzhi5368&count_private=true&include_all_commits=true&hide=prs,issues,contribs&card_width=400&show_icons=true&theme=gruvbox" alt="EXP's github stats" />
 </a>
 -->
 <!--END_SECTION:github-readme-stats-->
 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duzhi5368&theme=github)
+-
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=duzhi5368&layout=donut&hide=HTML&langs_count=5) -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=duzhi5368&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=duzhi5368&theme=github) 
 
 <!-- github profile -->
 <h2>🏆 Github Profile Trophy</h2>
