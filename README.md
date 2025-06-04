@@ -3,7 +3,7 @@
 
 <!--BGN_SECTION:github-readme-stats-->
 
-https://komarev.com/ghpvc/?username=duzhi5368&color=fc466b&style=plastic&label=Profile+Views
+![](https://komarev.com/ghpvc/?username=duzhi5368&color=fc466b&style=plastic&label=Profile+Views)
 <!--
 <a href="https://duzhi5368.github.io/OLDPAGE/" target="_blank">
   <img height="190" align="center" src="https://github-readme-stats.vercel.app/api?username=duzhi5368&count_private=true&include_all_commits=true&hide=prs,issues,contribs&card_width=400&show_icons=true&theme=gruvbox" alt="EXP's github stats" />
