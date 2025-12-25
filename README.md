@@ -15,8 +15,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duzhi5368&theme=github)
 -
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=duzhi5368&layout=donut&hide=HTML&langs_count=5) -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=duzhi5368&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=duzhi5368&theme=github) 
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=duzhi5368&theme=github) -->
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=duzhi5368&theme=github) -->
 
 <!-- github profile -->
 <h2>🏆 Github Profile Trophy</h2>
@@ -25,6 +25,9 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=duzhi5368&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
+
+![Trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=duzhi5368&w&wantAll=true&rank=-UNKNOWN,-C)
+
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=duzhi5368&column=7&theme=dark_lover&&no-frame=true&title=MultiLanguage,Stars,Repositories,Followers,Commits"/> -->
 <!--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-->
 
