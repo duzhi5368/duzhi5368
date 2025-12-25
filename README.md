@@ -20,7 +20,7 @@
 
 <!-- github profile -->
 <h2>🏆 Github Profile Trophy</h2>
-<p align="center">
+<p align="left">
   <a href="https://github.com/duzhi5368">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=duzhi5368&layout=compact&langs_count=8&theme=algolia"/>
   </a>
