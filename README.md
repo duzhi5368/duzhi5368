@@ -20,7 +20,15 @@
 
 <!-- github profile -->
 <h2>🏆 Github Profile Trophy</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=duzhi5368&column=7&theme=dark_lover&&no-frame=true&title=MultiLanguage,Stars,Repositories,Followers,Commits"/>
+<p align="center">
+  <a href="https://github.com/Adityakanoi2001">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=duzhi5368&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Adityakanoi2001">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=duzhi5368&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=duzhi5368&column=7&theme=dark_lover&&no-frame=true&title=MultiLanguage,Stars,Repositories,Followers,Commits"/> -->
 <!--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-->
 
 <!--
